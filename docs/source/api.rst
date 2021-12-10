@@ -1,7 +1,4 @@
-API
-===
+APIs
+======================
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+This part does not have any contents
