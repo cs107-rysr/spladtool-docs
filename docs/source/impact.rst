@@ -1,6 +1,3 @@
-Broader Impact and Inclusivity Statement
-======================
-
 Broader Impact
 ==============
 - Our implementation of automatic differentiation provides a fast and accurate way of calculating derivatives. Our SPLAD Tool package is handy and straightforward to apply in many fields. When handling large-scale computation, utilizing our package will relieve calculation workload and avoid computational errors. Besides, the package is also helpful in dealing with a wide range of mathematical problems. For example, by adding the implementation of loss functions, we were able to apply our spladtool_reverse to construct a simple data classifier, which is demonstrated in detailed under the exmaple directory. Furthermore, our package can also be used to construct root-finding algorithms based on Newton's method.
