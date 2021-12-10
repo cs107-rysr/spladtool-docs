@@ -23,3 +23,6 @@ Contents
    usage
    api
    develop
+   licence
+   Test
+   future
