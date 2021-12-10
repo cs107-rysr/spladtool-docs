@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'spladtool'
+copyright = '2021, Harvard University'
+author = 'Harvard University CS107 team SheRRY'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.0.3'
 
 # -- General configuration
 

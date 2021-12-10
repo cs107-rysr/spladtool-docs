@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to spladtool's documentation!
 ===================================
 
 **spladtool** is a Python library designed to demonstrate the concept simple automatic differentiation.
