@@ -83,7 +83,7 @@ with ``register_param()`` function.
 
 You can add more by reading our relevant source code.
 
-.. code:: python
+.. highlight:: python
    import numpy as np
    import spladtool.spladtool_reverse as sr
    class LinearModel(str.Module):
@@ -101,7 +101,7 @@ You can add more by reading our relevant source code.
 We provide a very simple SGD
 optimizer and two simple loss function for convenience.
 
-.. code:: python
+.. highlight:: python
    model = MyModel()
    np.random.seed(42)
    x = sr.tensor([1, 2, 3, 4])
