@@ -1,4 +1,4 @@
-Licencing
+Licensing
 ======================
 
 This project will be licensed using the traditional MIT license due to several factors.
