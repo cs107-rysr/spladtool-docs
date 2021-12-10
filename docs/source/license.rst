@@ -1,7 +1,7 @@
 Licensing
 ======================
 
-This project will be licensed using the traditional MIT license due to several factors.
+This project will be licensed using the traditional MIT license due to several reasons.
 
 - We will be using code from the NumPy library which the MIT license coincides with.
 - As of now, we do not foresee having to deal with any patents or any other dependencies.
