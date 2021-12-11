@@ -13,13 +13,18 @@ tests
 
 We have implemented thorough test suites for our package. The code coverage of our tests achieve 96%.
 
-To run given tests, under UNIX environment, use
+To run given tests, under UNIX environment, use:
+
 .. code-block:: console
+
   sh test.sh
 
-Under Windows environment, run
+Under Windows environment, run:
+
 .. code-block:: console
+
   coverage run test.py
+  
   coverage report
 
 
@@ -31,10 +36,7 @@ Test Suite
 ==========
 
 
-Installation
-------------
-
-To use spladtool, first install it using pip:
+To use spladtool, first install it using pip:To use spladtool, first install it using pip:
 
 .. code-block:: console
 
