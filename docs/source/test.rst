@@ -15,10 +15,15 @@ We have implemented thorough test suites for our package. The code coverage of o
 
 To run given tests, under UNIX environment, use
 .. code-block:: console
->>> sh test.sh
+  sh test.sh
 
 Under Windows environment, run
 .. code-block:: console
->>> coverage run test.py
->>> coverage report
+  coverage run test.py
+  coverage report
+
+
+
+
+
 
