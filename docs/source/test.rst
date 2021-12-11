@@ -1,8 +1,8 @@
 Test Suite
 ======================
 
-tests:
-* test_analytical.py
+* tests:.
+  * test_analytical.py.
 * test_backwards_func.py
 * test_basic_ops.py
 * test_basic_ops_reverse.py
