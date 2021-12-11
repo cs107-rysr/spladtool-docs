@@ -1,7 +1,8 @@
 Test Suite
 ======================
 
-tests:
+We have implemented thorough test suites for all methods in our package:
+
  * test_analytical.py.
  * test_backwards_func.py
  * test_basic_ops.py
@@ -10,8 +11,6 @@ tests:
  * test_comp_ops_reverse.py
  * test_functional_reverse.py
  * test_optimize.py
-
-We have implemented thorough test suites for all methods in our package. 
 
 The code coverage of our tests achieve 96%.
 
