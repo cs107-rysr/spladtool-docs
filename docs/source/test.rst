@@ -14,11 +14,10 @@ tests
 We have implemented thorough test suites for our package. The code coverage of our tests achieve 96%.
 
 To run given tests, under UNIX environment, use
-```bash
-sh test.sh
-```
+
+>>> sh test.sh
+
 Under Windows environment, run
-```bash
-coverage run test.py
-coverage report
-```
+>>> coverage run test.py
+>>> coverage report
+
