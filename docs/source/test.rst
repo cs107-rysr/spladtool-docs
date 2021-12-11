@@ -1,7 +1,7 @@
 Test Suite
 ======================
 
-We have implemented thorough test suites for all methods in our package
+We have implemented thorough test suites for all methods in our package using unittest as our testing framework. 
 
  * test_analytical.py.
  * test_backwards_func.py
