@@ -1,8 +1,7 @@
 Test Suite
 ======================
 
-We have implemented thorough test suites for all methods in our package:
-
+We have implemented thorough test suites for all methods in our package
  * test_analytical.py.
  * test_backwards_func.py
  * test_basic_ops.py
@@ -12,7 +11,7 @@ We have implemented thorough test suites for all methods in our package:
  * test_functional_reverse.py
  * test_optimize.py
 
-The code coverage of our tests achieve 96%.
+The code coverage of our tests achieves 96%.
 
 To run given tests, under UNIX environment, use:
 
