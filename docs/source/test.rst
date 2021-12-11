@@ -2,6 +2,7 @@ Test Suite
 ======================
 
 We have implemented thorough test suites for all methods in our package
+
  * test_analytical.py.
  * test_backwards_func.py
  * test_basic_ops.py
