@@ -24,6 +24,6 @@ Contents
    api
    develop
    licence
-   Test
+   test
    future
    impact

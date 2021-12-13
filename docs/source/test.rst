@@ -14,7 +14,7 @@ We have implemented thorough test suites for all methods in our package using un
 
 The code coverage of our tests achieves 96%.
 
-To run given tests, under UNIX environment, use:
+To run given tests, first install pytorch, to which we are comparing our results, and under UNIX environment, type:
 
 .. code-block:: console
 
